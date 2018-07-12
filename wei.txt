@@ -1,6 +1,2 @@
 wei
-aaa
-sss
-ddd
-fff
-ggg
+master
